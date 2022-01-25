@@ -1,56 +1,25 @@
-html {
-    box-sizing: border-box;
-}
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    width: 100%;
-    white-space: nowrap;
-}
-
-header {
-    padding: 15px 15px 0px 15px;
-    display: block;
-    margin-bottom: 25%;
-}
-
-#header-left {
+#first {
     float: left;
 }
 
-#header-right {
+#second {
     float: right;
 }
 
-#logo {
-    margin: auto;
-}
-
 #mic {
-    height: 1.25rem;
+    width: 1rem;
 }
 
-#glass {
-    width: 1.875rem;
-    height: 1.875rem;
-    position: relative;
-    top: 0.625rem;
-    right: 30.9375rem;
+#center-box {
+    position: absolute;
+    top: 18.75rem;
 }
 
 #search {
-    text-align: center;
-    padding-top: 1.25rem;
-    margin-left: 3.75rem;
+    border: 2px solid gray;
+    border-radius: 1.56rem;
 }
 
-#s-box {
-    font-size: 1rem;
-    height: 2.375rem;
-    width: 28.75rem;
-    border-radius: 1.5625rem;
-    padding: 0.1875rem;
-    border: 1px solid lightgray;
-    padding-left: 3.125rem;
+#searchbar {
+    border: none;
 }
