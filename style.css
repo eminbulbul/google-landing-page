@@ -1,25 +1,4 @@
-#first {
-    float: left;
-}
-
-#second {
-    float: right;
-}
-
-#mic {
-    width: 1rem;
-}
-
-#center-box {
-    position: absolute;
-    top: 18.75rem;
-}
-
-#search {
-    border: 2px solid gray;
-    border-radius: 1.56rem;
-}
-
-#searchbar {
-    border: none;
+.main__search-bar--magnifier,
+.main__search-bar--microphone {
+    width: 15px;
 }
