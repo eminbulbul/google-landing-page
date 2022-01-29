@@ -73,13 +73,13 @@ ul a:hover {
 }
 
 .header__right--button:hover {
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 0.0625rem 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0rem 0.0625rem 0rem 0rem;
 }
 
 .main__logo {
     width: 17rem;
     height: 5.9375rem;
-    margin: 12.5rem auto 0px;
+    margin: 12.5rem auto 0rem;
     display: block;
 }
 
